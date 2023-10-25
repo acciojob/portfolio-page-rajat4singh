@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+
+img{
+	height:150px;
+}
+
+.top{
+	display:flex;
+	justify-content: space-around
+}
+.list{
+	list-style-type: none;
+}
